@@ -38,3 +38,13 @@ public class task4 {
         }
     }
 }
+
+
+/*
+Sample Input
+AABAACAADAABAABA
+AABA
+Sample Output
+0 9 12
+
+*/
