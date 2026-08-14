@@ -39,3 +39,16 @@ public class task10{
                 });
     }
 }
+
+/*
+Sample Input
+3
+admin admin123
+ab 123
+user pass
+Sample Output
+SUCCESS
+FAILURE
+FAILURE
+
+*/
