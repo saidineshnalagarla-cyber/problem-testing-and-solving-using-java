@@ -42,3 +42,13 @@ public class task5 {
         System.out.println((int) account.getBalance());
     }
 }
+
+ /*
+ Sample Input
+3
+Deposit 5000
+Withdraw 2000
+Deposit 1000
+Sample Output
+4000
+        */
