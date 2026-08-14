@@ -71,3 +71,16 @@ public class task6 {
         }
     }
 }
+
+/*
+Sample Input
+3
+Bike 10
+Cab 15
+Auto 8
+Sample Output
+50
+180
+96
+
+*/
