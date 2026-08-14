@@ -16,3 +16,10 @@ public class task1 {
                 .forEach(s -> System.out.print(s + " "));
     }
 }
+
+//Sample Input:
+//5
+//1000 2000 3000 4000 5000
+//Sample Output:
+//1100 2200 3300 4400 5500
+
