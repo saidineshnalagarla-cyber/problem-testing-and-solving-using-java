@@ -22,3 +22,11 @@ public class task3 {
         System.out.println(max);
     }
 }
+/*
+Sample Input
+8
+-2 -3 4 -1 -2 1 5 -3
+Sample Output
+7
+
+*/
