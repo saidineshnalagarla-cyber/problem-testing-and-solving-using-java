@@ -23,3 +23,18 @@ public class task7 {
                         System.out.println(key + " " + value));
     }
 }
+
+/*
+Sample Input
+5
+java
+python
+java
+ai
+python
+Sample Output
+java 2
+python 2
+ai 1
+
+*/
