@@ -30,8 +30,15 @@ public class task9{
             }
         }
 
-        System.out.println(
-                result ? "Test Passed" : "Test Failed"
-        );
+        System.out.println(result ? "Test Passed" : "Test Failed" );
     }
 }
+
+
+/*
+Sample Input
+10 + 20
+Sample Output
+Test Passed
+
+*/
